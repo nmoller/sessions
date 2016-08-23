@@ -6,6 +6,8 @@
  * Time: 3:56 PM
  */
 $file = '/home/nmoller/moodle/my_cron/logged_sessions.txt';
+//effacer le ficher avant commencer
+unlink("logged_sessions.js");
 
 $out_file = new SplFileObject("logged_sessions.js", "w");
 $out_file->fwrite("data = [" . PHP_EOL);

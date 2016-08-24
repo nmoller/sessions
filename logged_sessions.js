@@ -143,5 +143,9 @@ data = [
 },
 { time : new Date(2016, 7, 24, 11, 7), nbr : 796
 },
+{ time : new Date(2016, 7, 24, 11, 36), nbr : 858
+},
+{ time : new Date(2016, 7, 24, 11, 52), nbr : 884
+},
 
 ];

@@ -119,5 +119,25 @@ data = [
 },
 { time : new Date(2016, 7, 24, 7, 7), nbr : 52
 },
+{ time : new Date(2016, 7, 24, 7, 36), nbr : 86
+},
+{ time : new Date(2016, 7, 24, 7, 52), nbr : 114
+},
+{ time : new Date(2016, 7, 24, 8, 7), nbr : 144
+},
+{ time : new Date(2016, 7, 24, 8, 36), nbr : 232
+},
+{ time : new Date(2016, 7, 24, 8, 52), nbr : 272
+},
+{ time : new Date(2016, 7, 24, 9, 7), nbr : 336
+},
+{ time : new Date(2016, 7, 24, 9, 36), nbr : 462
+},
+{ time : new Date(2016, 7, 24, 9, 52), nbr : 526
+},
+{ time : new Date(2016, 7, 24, 10, 7), nbr : 585
+},
+{ time : new Date(2016, 7, 24, 10, 36), nbr : 699
+},
 
 ];

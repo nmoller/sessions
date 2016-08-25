@@ -261,5 +261,25 @@ data = [
 },
 { time : new Date(2016, 7, 25, 6, 52), nbr : 55
 },
+{ time : new Date(2016, 7, 25, 7, 7), nbr : 63
+},
+{ time : new Date(2016, 7, 25, 7, 36), nbr : 106
+},
+{ time : new Date(2016, 7, 25, 7, 52), nbr : 128
+},
+{ time : new Date(2016, 7, 25, 8, 7), nbr : 166
+},
+{ time : new Date(2016, 7, 25, 8, 36), nbr : 250
+},
+{ time : new Date(2016, 7, 25, 8, 52), nbr : 308
+},
+{ time : new Date(2016, 7, 25, 9, 7), nbr : 360
+},
+{ time : new Date(2016, 7, 25, 9, 36), nbr : 480
+},
+{ time : new Date(2016, 7, 25, 9, 52), nbr : 546
+},
+{ time : new Date(2016, 7, 25, 10, 7), nbr : 587
+},
 
 ];

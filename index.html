@@ -25,7 +25,7 @@
                 line1.push([item.time, item.nbr]);
             });
             var plot1 = $.jqplot('chart2', [line1], {
-                title:'Sessions selon lheure.',
+                title:'Nombre de sessions.',
                 axes:{
                     xaxis:{
                         renderer:$.jqplot.DateAxisRenderer
@@ -33,7 +33,7 @@
                 },
                 seriesDefaults: {
                     showMarker:false,
-                    pointLabels: { show:true }
+                    pointLabels: { show:false }
                 },
                 series:[{lineWidth:4, markerOptions:{style:'square'}}]
             });

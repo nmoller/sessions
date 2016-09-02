@@ -1437,5 +1437,29 @@ data = [
 },
 { time : new Date(2016, 8, 2, 10, 52), nbr : 1604
 },
+{ time : new Date(2016, 8, 2, 11, 7), nbr : 1666
+},
+{ time : new Date(2016, 8, 2, 11, 36), nbr : 1805
+},
+{ time : new Date(2016, 8, 2, 11, 52), nbr : 1815
+},
+{ time : new Date(2016, 8, 2, 12, 7), nbr : 1792
+},
+{ time : new Date(2016, 8, 2, 12, 36), nbr : 1861
+},
+{ time : new Date(2016, 8, 2, 12, 52), nbr : 1811
+},
+{ time : new Date(2016, 8, 2, 13, 7), nbr : 1760
+},
+{ time : new Date(2016, 8, 2, 13, 36), nbr : 1776
+},
+{ time : new Date(2016, 8, 2, 13, 52), nbr : 1812
+},
+{ time : new Date(2016, 8, 2, 14, 7), nbr : 1737
+},
+{ time : new Date(2016, 8, 2, 14, 36), nbr : 1802
+},
+{ time : new Date(2016, 8, 2, 14, 52), nbr : 1763
+},
 
 ];

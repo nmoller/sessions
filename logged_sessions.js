@@ -2021,5 +2021,17 @@ data = [
 },
 { time : new Date(2016, 8, 6, 12, 7), nbr : 7363
 },
+{ time : new Date(2016, 8, 6, 12, 36), nbr : 7642
+},
+{ time : new Date(2016, 8, 6, 12, 52), nbr : 7223
+},
+{ time : new Date(2016, 8, 6, 13, 7), nbr : 7019
+},
+{ time : new Date(2016, 8, 6, 13, 36), nbr : 7253
+},
+{ time : new Date(2016, 8, 6, 13, 52), nbr : 7459
+},
+{ time : new Date(2016, 8, 6, 14, 7), nbr : 7739
+},
 
 ];

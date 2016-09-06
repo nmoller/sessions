@@ -2011,5 +2011,9 @@ data = [
 },
 { time : new Date(2016, 8, 6, 10, 36), nbr : 6211
 },
+{ time : new Date(2016, 8, 6, 10, 52), nbr : 6486
+},
+{ time : new Date(2016, 8, 6, 11, 7), nbr : 6687
+},
 
 ];

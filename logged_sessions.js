@@ -1989,5 +1989,27 @@ data = [
 },
 { time : new Date(2016, 8, 6, 6, 52), nbr : 273
 },
+{ time : new Date(2016, 8, 6, 7, 7), nbr : 381
+},
+{ time : new Date(2016, 8, 6, 7, 36), nbr : 683
+},
+{ time : new Date(2016, 8, 6, 7, 52), nbr : 912
+},
+{ time : new Date(2016, 8, 6, 8, 7), nbr : 1127
+},
+{ time : new Date(2016, 8, 6, 8, 36), nbr : 1720
+},
+{ time : new Date(2016, 8, 6, 8, 52), nbr : 2099
+},
+{ time : new Date(2016, 8, 6, 9, 7), nbr : 2494
+},
+{ time : new Date(2016, 8, 6, 9, 36), nbr : 4241
+},
+{ time : new Date(2016, 8, 6, 9, 52), nbr : 4933
+},
+{ time : new Date(2016, 8, 6, 10, 7), nbr : 5422
+},
+{ time : new Date(2016, 8, 6, 10, 36), nbr : 6211
+},
 
 ];

@@ -2133,5 +2133,19 @@ data = [
 },
 { time : new Date(2016, 8, 7, 6, 52), nbr : 338
 },
+{ time : new Date(2016, 8, 7, 7, 7), nbr : 465
+},
+{ time : new Date(2016, 8, 7, 7, 36), nbr : 831
+},
+{ time : new Date(2016, 8, 7, 7, 52), nbr : 1067
+},
+{ time : new Date(2016, 8, 7, 8, 7), nbr : 1329
+},
+{ time : new Date(2016, 8, 7, 8, 36), nbr : 2011
+},
+{ time : new Date(2016, 8, 7, 8, 52), nbr : 2380
+},
+{ time : new Date(2016, 8, 7, 9, 7), nbr : 2831
+},
 
 ];

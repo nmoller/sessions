@@ -2175,5 +2175,11 @@ data = [
 },
 { time : new Date(2016, 8, 7, 13, 52), nbr : 6827
 },
+{ time : new Date(2016, 8, 7, 14, 7), nbr : 7183
+},
+{ time : new Date(2016, 8, 7, 14, 36), nbr : 7268
+},
+{ time : new Date(2016, 8, 7, 14, 52), nbr : 7428
+},
 
 ];

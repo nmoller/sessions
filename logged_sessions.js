@@ -2853,5 +2853,37 @@ data = [
 },
 { time : new Date(2016, 8, 12, 6, 52), nbr : 258
 },
+{ time : new Date(2016, 8, 12, 7, 7), nbr : 382
+},
+{ time : new Date(2016, 8, 12, 7, 36), nbr : 655
+},
+{ time : new Date(2016, 8, 12, 7, 52), nbr : 859
+},
+{ time : new Date(2016, 8, 12, 8, 7), nbr : 1102
+},
+{ time : new Date(2016, 8, 12, 8, 36), nbr : 1733
+},
+{ time : new Date(2016, 8, 12, 8, 52), nbr : 2091
+},
+{ time : new Date(2016, 8, 12, 9, 7), nbr : 2647
+},
+{ time : new Date(2016, 8, 12, 9, 36), nbr : 4486
+},
+{ time : new Date(2016, 8, 12, 9, 52), nbr : 5240
+},
+{ time : new Date(2016, 8, 12, 10, 7), nbr : 5764
+},
+{ time : new Date(2016, 8, 12, 10, 36), nbr : 6510
+},
+{ time : new Date(2016, 8, 12, 10, 52), nbr : 6872
+},
+{ time : new Date(2016, 8, 12, 11, 7), nbr : 7182
+},
+{ time : new Date(2016, 8, 12, 11, 36), nbr : 7849
+},
+{ time : new Date(2016, 8, 12, 11, 52), nbr : 7995
+},
+{ time : new Date(2016, 8, 12, 12, 7), nbr : 7988
+},
 
 ];

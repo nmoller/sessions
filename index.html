@@ -52,10 +52,22 @@
 
             var plot2 = $.jqplot("web4", [web4line1, web4line2], {
                 title: "Web 4",
+                    series: [
+                {
+                    fill: true,
+                    label: 'Erreur lock session'
+                },
+                {
+                    label: 'Unique IPs'
+                }
+            ],
+                legend: {
+                    show: true,
+                    placement: 'outside'
+                },
 
                 seriesDefaults: {
                     rendererOptions: {
-                        showMarker:true,
                         pointLabels: { show:true },
                         //////
                         // Turn on line smoothing.  By default, a constrained cubic spline
@@ -76,10 +88,22 @@
 
             var plot2 = $.jqplot("web5", [web5line1, web5line2], {
                 title: "Web 5",
+                series: [
+                    {
+                        fill: true,
+                        label: 'Erreur lock session'
+                    },
+                    {
+                        label: 'Unique IPs'
+                    }
+                ],
+                legend: {
+                    show: true,
+                    placement: 'outside'
+                },
 
                 seriesDefaults: {
                     rendererOptions: {
-                        showMarker:true,
                         pointLabels: { show:true },
                         //////
                         // Turn on line smoothing.  By default, a constrained cubic spline
@@ -101,10 +125,21 @@
 
             var plot2 = $.jqplot("web6", [web6line1, web6line2], {
                 title: "Web 6",
-
+                series: [
+                    {
+                        fill: true,
+                        label: 'Erreur lock session'
+                    },
+                    {
+                        label: 'Unique IPs'
+                    }
+                ],
+                legend: {
+                    show: true,
+                    placement: 'outside'
+                },
                 seriesDefaults: {
                     rendererOptions: {
-                        showMarker:true,
                         pointLabels: { show:true },
                         //////
                         // Turn on line smoothing.  By default, a constrained cubic spline

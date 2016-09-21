@@ -4149,5 +4149,51 @@ data = [
 },
 { time : new Date(2016, 8, 21, 6, 52), nbr : 261
 },
+{ time : new Date(2016, 8, 21, 7, 36), nbr : 582
+},
+{ time : new Date(2016, 8, 21, 7, 52), nbr : 774
+},
+{ time : new Date(2016, 8, 21, 8, 7), nbr : 990
+},
+{ time : new Date(2016, 8, 21, 8, 36), nbr : 1504
+},
+{ time : new Date(2016, 8, 21, 8, 52), nbr : 1826
+},
+{ time : new Date(2016, 8, 21, 9, 7), nbr : 2210
+},
+{ time : new Date(2016, 8, 21, 9, 36), nbr : 4105
+},
+{ time : new Date(2016, 8, 21, 9, 52), nbr : 4882
+},
+{ time : new Date(2016, 8, 21, 10, 7), nbr : 5270
+},
+{ time : new Date(2016, 8, 21, 10, 36), nbr : 5947
+},
+{ time : new Date(2016, 8, 21, 10, 52), nbr : 6208
+},
+{ time : new Date(2016, 8, 21, 11, 7), nbr : 6415
+},
+{ time : new Date(2016, 8, 21, 11, 36), nbr : 6937
+},
+{ time : new Date(2016, 8, 21, 11, 52), nbr : 7028
+},
+{ time : new Date(2016, 8, 21, 12, 7), nbr : 7414
+},
+{ time : new Date(2016, 8, 21, 12, 36), nbr : 6925
+},
+{ time : new Date(2016, 8, 21, 12, 52), nbr : 6385
+},
+{ time : new Date(2016, 8, 21, 13, 7), nbr : 6840
+},
+{ time : new Date(2016, 8, 21, 13, 36), nbr : 6564
+},
+{ time : new Date(2016, 8, 21, 13, 52), nbr : 6709
+},
+{ time : new Date(2016, 8, 21, 14, 7), nbr : 7846
+},
+{ time : new Date(2016, 8, 21, 14, 36), nbr : 7736
+},
+{ time : new Date(2016, 8, 21, 14, 52), nbr : 8249
+},
 
 ];

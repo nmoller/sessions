@@ -12,7 +12,7 @@ $file_data_out = "sessions1.js";
 unlink($file_data_out);
 $out_file = new SplFileObject($file_data_out, "w");
 
-$out_file->fwrite("data = [" . PHP_EOL);
+$out_file->fwrite("data1 = [" . PHP_EOL);
 
 $in_file = new SplFileObject($file);
 while ($line = $in_file->fgets()) {

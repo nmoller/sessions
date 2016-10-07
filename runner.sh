@@ -5,7 +5,7 @@ now=`date --rfc-3339='seconds'`
 
 cd $root && php convert.php
 
-cd $root && git add logged_sessions.js
+cd $root && git add sessions1.js
 
 cd $root && git commit -m "${now}"
 

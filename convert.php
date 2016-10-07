@@ -5,8 +5,9 @@
  * Date: 23/08/16
  * Time: 3:56 PM
  */
-$file = '/home/nmoller/moodle/my_cron/logged_sessions.txt';
-$file_data_out = "logged_sessions.js";
+//$file = '/home/nmoller/moodle/my_cron/logged_sessions.txt';
+$file = '/home/nmoller/moodle/my_cron/sessions1.txt';
+$file_data_out = "sessions1.js";
 //effacer le ficher avant commencer
 unlink($file_data_out);
 $out_file = new SplFileObject($file_data_out, "w");

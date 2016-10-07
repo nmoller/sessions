@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/jqplot/1.0.8/jquery.jqplot.min.css">
 </head>
 <body>
-
+<div id="sessions" style="width:1300px;"></div>
 <div id="chart2" style="width:1300px;"></div>
 <div id="web4" style="width:1300px;"></div>
 <div id="web5" style="width:1300px;"></div>
@@ -18,12 +18,31 @@
 
 <script src="//cdn.jsdelivr.net/g/jqplot@1.0.8(jquery.jqplot.min.js+plugins/jqplot.barRenderer.min.js+plugins/jqplot.blockRenderer.min.js+plugins/jqplot.pieRenderer.min.js+plugins/jqplot.trendline.min.js+plugins/jqplot.BezierCurveRenderer.min.js+plugins/jqplot.bubbleRenderer.min.js+plugins/jqplot.canvasAxisLabelRenderer.min.js+plugins/jqplot.canvasAxisTickRenderer.min.js+plugins/jqplot.canvasOverlay.min.js+plugins/jqplot.canvasTextRenderer.min.js+plugins/jqplot.categoryAxisRenderer.min.js+plugins/jqplot.ciParser.min.js+plugins/jqplot.cursor.min.js+plugins/jqplot.dateAxisRenderer.min.js+plugins/jqplot.donutRenderer.min.js+plugins/jqplot.dragable.min.js+plugins/jqplot.enhancedLegendRenderer.min.js+plugins/jqplot.funnelRenderer.min.js+plugins/jqplot.highlighter.min.js+plugins/jqplot.json2.min.js+plugins/jqplot.logAxisRenderer.min.js+plugins/jqplot.mekkoAxisRenderer.min.js+plugins/jqplot.mekkoRenderer.min.js+plugins/jqplot.meterGaugeRenderer.min.js+plugins/jqplot.mobile.min.js+plugins/jqplot.ohlcRenderer.min.js+plugins/jqplot.pointLabels.min.js+plugins/jqplot.pyramidAxisRenderer.min.js+plugins/jqplot.pyramidGridRenderer.min.js+plugins/jqplot.pyramidRenderer.min.js)">
 </script>
+<script src="sessions1.js"></script>
 <script src="logged_sessions.js"></script>
 <script src="infos_sessions.js"></script>
 <script type="text/javascript">
     $(document).ready(function(){
 
         $(document).ready(function(){
+            sessionsline1 = Array();
+            data.forEach(function(item) {
+                sessionsline1.push([item.time, item.nbr]);
+            });
+            var plot1 = $.jqplot('sessions', [sessionsline1], {
+                title:'Nombre de sessions - Activité 10min.',
+                axes:{
+                    xaxis:{
+                        renderer:$.jqplot.DateAxisRenderer
+                    }
+                },
+                seriesDefaults: {
+                    showMarker:false,
+                    pointLabels: { show:false }
+                },
+                series:[{lineWidth:4, markerOptions:{style:'square'}}]
+            });
+
             line1 = Array();
             data.forEach(function(item) {
                 line1.push([item.time, item.nbr]);

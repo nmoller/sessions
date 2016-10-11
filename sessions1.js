@@ -571,5 +571,17 @@ data1 = [
 },
 { time : new Date(2016, 9, 11, 10, 7), nbr : 776
 },
+{ time : new Date(2016, 9, 11, 10, 36), nbr : 873
+},
+{ time : new Date(2016, 9, 11, 10, 52), nbr : 806
+},
+{ time : new Date(2016, 9, 11, 11, 7), nbr : 850
+},
+{ time : new Date(2016, 9, 11, 11, 36), nbr : 848
+},
+{ time : new Date(2016, 9, 11, 11, 52), nbr : 765
+},
+{ time : new Date(2016, 9, 11, 12, 7), nbr : 771
+},
 
 ];

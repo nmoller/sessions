@@ -1403,5 +1403,19 @@ data1 = [
 },
 { time : new Date(2016, 9, 17, 6, 52), nbr : 64
 },
+{ time : new Date(2016, 9, 17, 7, 7), nbr : 84
+},
+{ time : new Date(2016, 9, 17, 7, 36), nbr : 163
+},
+{ time : new Date(2016, 9, 17, 7, 52), nbr : 224
+},
+{ time : new Date(2016, 9, 17, 8, 7), nbr : 240
+},
+{ time : new Date(2016, 9, 17, 8, 36), nbr : 337
+},
+{ time : new Date(2016, 9, 17, 8, 52), nbr : 358
+},
+{ time : new Date(2016, 9, 17, 9, 7), nbr : 512
+},
 
 ];

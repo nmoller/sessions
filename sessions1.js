@@ -1417,5 +1417,9 @@ data1 = [
 },
 { time : new Date(2016, 9, 17, 9, 7), nbr : 512
 },
+{ time : new Date(2016, 9, 17, 9, 36), nbr : 1106
+},
+{ time : new Date(2016, 9, 17, 9, 52), nbr : 902
+},
 
 ];

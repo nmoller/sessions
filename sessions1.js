@@ -3751,5 +3751,53 @@ data1 = [
 },
 { time : new Date(2016, 10, 3, 6, 52), nbr : 76
 },
+{ time : new Date(2016, 10, 3, 7, 7), nbr : 73
+},
+{ time : new Date(2016, 10, 3, 7, 36), nbr : 111
+},
+{ time : new Date(2016, 10, 3, 7, 52), nbr : 138
+},
+{ time : new Date(2016, 10, 3, 8, 7), nbr : 157
+},
+{ time : new Date(2016, 10, 3, 8, 36), nbr : 255
+},
+{ time : new Date(2016, 10, 3, 8, 52), nbr : 286
+},
+{ time : new Date(2016, 10, 3, 9, 7), nbr : 314
+},
+{ time : new Date(2016, 10, 3, 9, 36), nbr : 851
+},
+{ time : new Date(2016, 10, 3, 9, 52), nbr : 644
+},
+{ time : new Date(2016, 10, 3, 10, 7), nbr : 577
+},
+{ time : new Date(2016, 10, 3, 10, 36), nbr : 562
+},
+{ time : new Date(2016, 10, 3, 10, 52), nbr : 557
+},
+{ time : new Date(2016, 10, 3, 11, 7), nbr : 595
+},
+{ time : new Date(2016, 10, 3, 11, 36), nbr : 668
+},
+{ time : new Date(2016, 10, 3, 11, 52), nbr : 588
+},
+{ time : new Date(2016, 10, 3, 12, 7), nbr : 571
+},
+{ time : new Date(2016, 10, 3, 12, 36), nbr : 621
+},
+{ time : new Date(2016, 10, 3, 12, 52), nbr : 582
+},
+{ time : new Date(2016, 10, 3, 13, 7), nbr : 603
+},
+{ time : new Date(2016, 10, 3, 13, 36), nbr : 636
+},
+{ time : new Date(2016, 10, 3, 13, 52), nbr : 630
+},
+{ time : new Date(2016, 10, 3, 14, 7), nbr : 1038
+},
+{ time : new Date(2016, 10, 3, 14, 36), nbr : 681
+},
+{ time : new Date(2016, 10, 3, 14, 52), nbr : 627
+},
 
 ];

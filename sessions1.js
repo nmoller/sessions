@@ -7843,11 +7843,11 @@ data1 = [
 },
 { time : new Date(2016, 11, 2, 7, 7), nbr : 29
 },
-{ time : new Date(2016, 11, 2, 7, 36), nbr : 0},
-{ time : new Date(2016, 11, 2, 7, 52), nbr : 0},
-{ time : new Date(2016, 11, 2, 8, 7), nbr : 0},
-{ time : new Date(2016, 11, 2, 8, 36), nbr : 0},
-{ time : new Date(2016, 11, 2, 8, 52), nbr : 0},
+{ time : new Date(0, -1, , 0, ), nbr : },
+{ time : new Date(0, -1, , 0, ), nbr : },
+{ time : new Date(0, -1, , 0, ), nbr : },
+{ time : new Date(0, -1, , 0, ), nbr : },
+{ time : new Date(0, -1, , 0, ), nbr : },
 { time : new Date(2016, 11, 2, 9, 7), nbr : 158
 },
 { time : new Date(2016, 11, 2, 9, 36), nbr : 456
@@ -8267,6 +8267,54 @@ data1 = [
 { time : new Date(2016, 11, 5, 6, 36), nbr : 44
 },
 { time : new Date(2016, 11, 5, 6, 52), nbr : 41
+},
+{ time : new Date(2016, 11, 5, 7, 7), nbr : 66
+},
+{ time : new Date(2016, 11, 5, 7, 36), nbr : 88
+},
+{ time : new Date(2016, 11, 5, 7, 52), nbr : 129
+},
+{ time : new Date(2016, 11, 5, 8, 7), nbr : 157
+},
+{ time : new Date(2016, 11, 5, 8, 36), nbr : 234
+},
+{ time : new Date(2016, 11, 5, 8, 52), nbr : 266
+},
+{ time : new Date(2016, 11, 5, 9, 7), nbr : 304
+},
+{ time : new Date(2016, 11, 5, 9, 36), nbr : 694
+},
+{ time : new Date(2016, 11, 5, 9, 52), nbr : 663
+},
+{ time : new Date(2016, 11, 5, 10, 7), nbr : 599
+},
+{ time : new Date(2016, 11, 5, 10, 36), nbr : 637
+},
+{ time : new Date(2016, 11, 5, 10, 52), nbr : 607
+},
+{ time : new Date(2016, 11, 5, 11, 7), nbr : 635
+},
+{ time : new Date(2016, 11, 5, 11, 36), nbr : 760
+},
+{ time : new Date(2016, 11, 5, 11, 52), nbr : 626
+},
+{ time : new Date(2016, 11, 5, 12, 7), nbr : 600
+},
+{ time : new Date(2016, 11, 5, 12, 36), nbr : 641
+},
+{ time : new Date(2016, 11, 5, 12, 52), nbr : 623
+},
+{ time : new Date(2016, 11, 5, 13, 7), nbr : 666
+},
+{ time : new Date(2016, 11, 5, 13, 36), nbr : 706
+},
+{ time : new Date(2016, 11, 5, 13, 52), nbr : 753
+},
+{ time : new Date(2016, 11, 5, 14, 7), nbr : 979
+},
+{ time : new Date(2016, 11, 5, 14, 36), nbr : 778
+},
+{ time : new Date(2016, 11, 5, 14, 52), nbr : 705
 },
 
 ];

@@ -7843,11 +7843,6 @@ data1 = [
 },
 { time : new Date(2016, 11, 2, 7, 7), nbr : 29
 },
-{ time : new Date(0, -1, , 0, ), nbr : },
-{ time : new Date(0, -1, , 0, ), nbr : },
-{ time : new Date(0, -1, , 0, ), nbr : },
-{ time : new Date(0, -1, , 0, ), nbr : },
-{ time : new Date(0, -1, , 0, ), nbr : },
 { time : new Date(2016, 11, 2, 9, 7), nbr : 158
 },
 { time : new Date(2016, 11, 2, 9, 36), nbr : 456

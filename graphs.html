@@ -6,6 +6,15 @@
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
 
+    <style>
+        .line {
+            /* Ce qu'il faut pour que la ligne ne soit pas pleine */
+            fill: none;
+            stroke: steelblue;
+            stroke-width: 1.5px;
+        }
+    </style>
+
 </head>
 <body>
 <script>
@@ -19,7 +28,7 @@
     var parseDate = d3.timeFormat("%Y-%m-%d-%H-%-M-%S");
 
     // Set the ranges
-    var x = d3.scaleTime().range([0, width]);
+    var x = d3.scaleLinear().range([0, width]);
     var y = d3.scaleLinear().range([height, 0]);
 
     // Define the axes
@@ -47,11 +56,12 @@
         data.forEach(function(d) {
             d.day = i++;
             //On transforme a mb/s
-            d.time = (2.3 * 1024)/d.time.slice(3,9);
+            d.time = (2.3 * 1024)/d.time.slice(2,8);
         });
         // Scale the range of the data
         x.domain(d3.extent(data, function(d) { return d.day; }));
         y.domain(d3.extent(data, function(d) { return d.time; }));
+        //y.domain([0, d3.max(data, function(d) { return d.time; })]);
 
 
         // Add the valueline path.
@@ -63,13 +73,13 @@
         // Add the X Axis
 
         svg.append("g")
-            .attr("class", "x axis")
+            .attr("class", "axis axis--x")
             .attr("transform", "translate(0," + height + ")")
             .call(xAxis);
 
         // Add the Y Axis
         svg.append("g")
-            .attr("class", "y axis")
+            .attr("class", "axis axis--y")
             .call(yAxis);
         //
     });

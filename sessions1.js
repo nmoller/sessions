@@ -13023,5 +13023,53 @@ data1 = [
 },
 { time : new Date(2017, 0, 7, 6, 52), nbr : 34
 },
+{ time : new Date(2017, 0, 7, 7, 7), nbr : 23
+},
+{ time : new Date(2017, 0, 7, 7, 36), nbr : 33
+},
+{ time : new Date(2017, 0, 7, 7, 52), nbr : 43
+},
+{ time : new Date(2017, 0, 7, 8, 7), nbr : 43
+},
+{ time : new Date(2017, 0, 7, 8, 36), nbr : 69
+},
+{ time : new Date(2017, 0, 7, 8, 52), nbr : 94
+},
+{ time : new Date(2017, 0, 7, 9, 7), nbr : 124
+},
+{ time : new Date(2017, 0, 7, 9, 36), nbr : 150
+},
+{ time : new Date(2017, 0, 7, 9, 52), nbr : 129
+},
+{ time : new Date(2017, 0, 7, 10, 7), nbr : 158
+},
+{ time : new Date(2017, 0, 7, 10, 36), nbr : 166
+},
+{ time : new Date(2017, 0, 7, 10, 52), nbr : 176
+},
+{ time : new Date(2017, 0, 7, 11, 7), nbr : 201
+},
+{ time : new Date(2017, 0, 7, 11, 36), nbr : 206
+},
+{ time : new Date(2017, 0, 7, 11, 52), nbr : 203
+},
+{ time : new Date(2017, 0, 7, 12, 7), nbr : 195
+},
+{ time : new Date(2017, 0, 7, 12, 36), nbr : 195
+},
+{ time : new Date(2017, 0, 7, 12, 52), nbr : 177
+},
+{ time : new Date(2017, 0, 7, 13, 7), nbr : 194
+},
+{ time : new Date(2017, 0, 7, 13, 36), nbr : 206
+},
+{ time : new Date(2017, 0, 7, 13, 52), nbr : 178
+},
+{ time : new Date(2017, 0, 7, 14, 7), nbr : 210
+},
+{ time : new Date(2017, 0, 7, 14, 36), nbr : 215
+},
+{ time : new Date(2017, 0, 7, 14, 52), nbr : 181
+},
 
 ];

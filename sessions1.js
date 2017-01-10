@@ -13359,5 +13359,29 @@ data1 = [
 },
 { time : new Date(2017, 0, 9, 14, 52), nbr : 897
 },
+{ time : new Date(2017, 0, 10, 11, 7), nbr : 921
+},
+{ time : new Date(2017, 0, 10, 11, 36), nbr : 925
+},
+{ time : new Date(2017, 0, 10, 11, 52), nbr : 803
+},
+{ time : new Date(2017, 0, 10, 12, 7), nbr : 798
+},
+{ time : new Date(2017, 0, 10, 12, 36), nbr : 718
+},
+{ time : new Date(2017, 0, 10, 12, 52), nbr : 724
+},
+{ time : new Date(2017, 0, 10, 13, 7), nbr : 734
+},
+{ time : new Date(2017, 0, 10, 13, 36), nbr : 870
+},
+{ time : new Date(2017, 0, 10, 13, 52), nbr : 1096
+},
+{ time : new Date(2017, 0, 10, 14, 7), nbr : 1595
+},
+{ time : new Date(2017, 0, 10, 14, 36), nbr : 1021
+},
+{ time : new Date(2017, 0, 10, 14, 52), nbr : 928
+},
 
 ];

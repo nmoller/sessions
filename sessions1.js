@@ -693,4 +693,12 @@ data1 = [
 { time : new Date(2017, 0, 11, 11, 36), nbr : 766},
 { time : new Date(2017, 0, 11, 11, 52), nbr : 700},
 { time : new Date(2017, 0, 11, 12, 7), nbr : 688},
+{ time : new Date(2017, 0, 11, 12, 36), nbr : 676},
+{ time : new Date(2017, 0, 11, 12, 52), nbr : 652},
+{ time : new Date(2017, 0, 11, 13, 7), nbr : 719},
+{ time : new Date(2017, 0, 11, 13, 36), nbr : 812},
+{ time : new Date(2017, 0, 11, 13, 52), nbr : 953},
+{ time : new Date(2017, 0, 11, 14, 7), nbr : 1390},
+{ time : new Date(2017, 0, 11, 14, 36), nbr : 911},
+{ time : new Date(2017, 0, 11, 14, 52), nbr : 848},
 ];

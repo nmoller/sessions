@@ -13383,5 +13383,101 @@ data1 = [
 },
 { time : new Date(2017, 0, 10, 14, 52), nbr : 928
 },
+{ time : new Date(2017, 0, 10, 15, 7), nbr : 873
+},
+{ time : new Date(2017, 0, 10, 15, 36), nbr : 851
+},
+{ time : new Date(2017, 0, 10, 15, 52), nbr : 777
+},
+{ time : new Date(2017, 0, 10, 16, 7), nbr : 743
+},
+{ time : new Date(2017, 0, 10, 16, 36), nbr : 686
+},
+{ time : new Date(2017, 0, 10, 16, 52), nbr : 669
+},
+{ time : new Date(2017, 0, 10, 17, 7), nbr : 662
+},
+{ time : new Date(2017, 0, 10, 17, 36), nbr : 659
+},
+{ time : new Date(2017, 0, 10, 17, 52), nbr : 791
+},
+{ time : new Date(2017, 0, 10, 18, 7), nbr : 1109
+},
+{ time : new Date(2017, 0, 10, 18, 36), nbr : 830
+},
+{ time : new Date(2017, 0, 10, 18, 52), nbr : 686
+},
+{ time : new Date(2017, 0, 10, 19, 7), nbr : 702
+},
+{ time : new Date(2017, 0, 10, 19, 36), nbr : 654
+},
+{ time : new Date(2017, 0, 10, 19, 52), nbr : 641
+},
+{ time : new Date(2017, 0, 10, 20, 7), nbr : 587
+},
+{ time : new Date(2017, 0, 10, 20, 36), nbr : 533
+},
+{ time : new Date(2017, 0, 10, 20, 52), nbr : 499
+},
+{ time : new Date(2017, 0, 10, 21, 7), nbr : 477
+},
+{ time : new Date(2017, 0, 10, 21, 36), nbr : 480
+},
+{ time : new Date(2017, 0, 10, 21, 52), nbr : 448
+},
+{ time : new Date(2017, 0, 10, 22, 7), nbr : 474
+},
+{ time : new Date(2017, 0, 10, 22, 36), nbr : 403
+},
+{ time : new Date(2017, 0, 10, 22, 52), nbr : 305
+},
+{ time : new Date(2017, 0, 10, 23, 7), nbr : 275
+},
+{ time : new Date(2017, 0, 10, 23, 36), nbr : 210
+},
+{ time : new Date(2017, 0, 10, 23, 52), nbr : 165
+},
+{ time : new Date(2017, 0, 11, 0, 7), nbr : 163
+},
+{ time : new Date(2017, 0, 11, 0, 36), nbr : 128
+},
+{ time : new Date(2017, 0, 11, 0, 52), nbr : 95
+},
+{ time : new Date(2017, 0, 11, 1, 7), nbr : 65
+},
+{ time : new Date(2017, 0, 11, 1, 36), nbr : 62
+},
+{ time : new Date(2017, 0, 11, 1, 52), nbr : 49
+},
+{ time : new Date(2017, 0, 11, 2, 7), nbr : 25
+},
+{ time : new Date(2017, 0, 11, 2, 36), nbr : 27
+},
+{ time : new Date(2017, 0, 11, 2, 52), nbr : 18
+},
+{ time : new Date(2017, 0, 11, 3, 7), nbr : 12
+},
+{ time : new Date(2017, 0, 11, 3, 36), nbr : 13
+},
+{ time : new Date(2017, 0, 11, 3, 52), nbr : 15
+},
+{ time : new Date(2017, 0, 11, 4, 7), nbr : 14
+},
+{ time : new Date(2017, 0, 11, 4, 36), nbr : 21
+},
+{ time : new Date(2017, 0, 11, 4, 52), nbr : 15
+},
+{ time : new Date(2017, 0, 11, 5, 7), nbr : 10
+},
+{ time : new Date(2017, 0, 11, 5, 36), nbr : 35
+},
+{ time : new Date(2017, 0, 11, 5, 52), nbr : 32
+},
+{ time : new Date(2017, 0, 11, 6, 7), nbr : 48
+},
+{ time : new Date(2017, 0, 11, 6, 36), nbr : 76
+},
+{ time : new Date(2017, 0, 11, 6, 52), nbr : 92
+},
 
 ];

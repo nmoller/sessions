@@ -28,14 +28,15 @@ while ($line = $in_file->fgets()) {
 
     // Mois commencent à zero en js
     $date[1] = $date[1] - 1;
+    $new_value = trim($content2[1]);
 
-    $parsed_line = "{ time : new Date($date[0], $date[1], $date[2], $hour[0], $hour[1]), nbr : $content2[1]},";
+    $parsed_line = "{ time : new Date($date[0], $date[1], $date[2], $hour[0], $hour[1]), nbr : $new_value},";
 
     $out_file->fwrite($parsed_line . PHP_EOL);
 
 }
 
-$out_file->fwrite(PHP_EOL. "];");
+$out_file->fwrite("];");
 
 /**
  * Le zero devant un chiffre génére un message d'erreur dans js.

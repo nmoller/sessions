@@ -684,4 +684,13 @@ data1 = [
 { time : new Date(2017, 0, 11, 7, 36), nbr : 197},
 { time : new Date(2017, 0, 11, 7, 52), nbr : 232},
 { time : new Date(2017, 0, 11, 8, 7), nbr : 243},
+{ time : new Date(2017, 0, 11, 9, 36), nbr : 1361},
+{ time : new Date(2017, 0, 11, 9, 52), nbr : 860},
+{ time : new Date(2017, 0, 11, 10, 7), nbr : 851},
+{ time : new Date(2017, 0, 11, 10, 36), nbr : 928},
+{ time : new Date(2017, 0, 11, 10, 52), nbr : 745},
+{ time : new Date(2017, 0, 11, 11, 7), nbr : 800},
+{ time : new Date(2017, 0, 11, 11, 36), nbr : 766},
+{ time : new Date(2017, 0, 11, 11, 52), nbr : 700},
+{ time : new Date(2017, 0, 11, 12, 7), nbr : 688},
 ];

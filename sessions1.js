@@ -3265,4 +3265,11 @@ data1 = [
 { time : new Date(2017, 1, 16, 6, 7), nbr : 26},
 { time : new Date(2017, 1, 16, 6, 36), nbr : 42},
 { time : new Date(2017, 1, 16, 6, 52), nbr : 43},
+{ time : new Date(2017, 1, 16, 7, 7), nbr : 75},
+{ time : new Date(2017, 1, 16, 7, 36), nbr : 111},
+{ time : new Date(2017, 1, 16, 7, 52), nbr : 139},
+{ time : new Date(2017, 1, 16, 8, 7), nbr : 153},
+{ time : new Date(2017, 1, 16, 8, 36), nbr : 207},
+{ time : new Date(2017, 1, 16, 8, 52), nbr : 238},
+{ time : new Date(2017, 1, 16, 9, 7), nbr : 313},
 ];

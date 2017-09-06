@@ -47,10 +47,10 @@
 
             sessionsline1old = Array();
             data1_old.forEach(function(item) {
-                sessionsline1.push([item.time, item.nbr]);
+                sessionsline1old.push([item.time, item.nbr]);
             });
             var plot1 = $.jqplot('sessionsold', [sessionsline1old], {
-                title:'Nombre de sessions - Activité 10min.',
+                title:'Nombre de sessions - Activité 10min. Avant -32017',
                 axes:{
                     xaxis:{
                         renderer:$.jqplot.DateAxisRenderer

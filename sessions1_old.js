@@ -212,5 +212,4 @@ data1 = [
 { time : new Date(2017, 8, 6, 8, 53), nbr : 440},
 { time : new Date(2017, 8, 6, 9, 8), nbr : 581},
 { time : new Date(2017, 8, 6, 9, 37), nbr : 1537},
-{ time : new Date(2017, 8, 6, 9, 53), nbr : 980},
 ];

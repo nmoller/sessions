@@ -4304,7 +4304,7 @@ data1 = [
 { time : new Date(2017, 10, 2, 9, 37), nbr : 1146},
 { time : new Date(2017, 10, 2, 9, 53), nbr : 730},
 { time : new Date(2017, 10, 2, 10, 8), nbr : 537},
-{ time : new Date(0, 10, 2, 10, 53), nbr : 623},
+{ time : new Date(2017, 10, 2, 10, 53), nbr : 623},
 { time : new Date(2017, 10, 2, 11, 8), nbr : 652},
 { time : new Date(2017, 10, 2, 11, 37), nbr : 696},
 { time : new Date(2017, 10, 2, 11, 53), nbr : 628},
@@ -5160,4 +5160,6 @@ data1 = [
 { time : new Date(2017, 10, 14, 6, 8), nbr : 34},
 { time : new Date(2017, 10, 14, 6, 37), nbr : 55},
 { time : new Date(2017, 10, 14, 6, 53), nbr : 60},
+{ time : new Date(2017, 10, 14, 7, 8), nbr : 90},
+{ time : new Date(2017, 10, 14, 7, 37), nbr : 146},
 ];
